@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VYSUAL — Modern Artistic Photography Studio
 
 Website resmi studio fotografi independen dengan konsep **White Editorial Aesthetic × Modern Meets Art × Subtle Liquid Glass**. Menghadirkan visual bermakna melalui pendekatan artistik, siluet visual yang elegan, komposisi foto besar terarah, tipografi editorial ekspresif, dan animasi sinematik yang hidup.
@@ -149,3 +150,6 @@ Buka file `index.html` langsung di peramban favorit Anda (Chrome, Edge, Safari, 
 ```bash
 npx serve .
 ```
+=======
+# VYSUAL
+>>>>>>> 6cea12028852b58ec9e5d4f1ee755b7011d62210
